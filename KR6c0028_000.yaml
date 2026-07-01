@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0028/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說能斷金剛般若波羅蜜多經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0239.xml
+    old_id: T08n0239
+hash: sha256:051b8703a8df4dc2124b92e7a6d249f11a35acf9670f96e187f5ce17c613c67e

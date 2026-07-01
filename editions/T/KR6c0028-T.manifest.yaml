@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6c0028/T/v1
+canonical_location: https://kanripo.org/bkk/KR6c0028/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說能斷金剛般若波羅蜜多經
+  identifiers:
+    krp: KR6c0028
+    cbeta: T08n0239
+    cbeta_old_id: T08n0239
+    authorityid: CA0002342
+    json_key: T0239
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0239.xml
+    old_id: T08n0239
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0028_000-T.yaml, hash: 'sha256:051b8703a8df4dc2124b92e7a6d249f11a35acf9670f96e187f5ce17c613c67e'}
+  - {seq: 1, filename: KR6c0028_001-T.yaml, hash: 'sha256:ba015a9911c539b61882c23925e45e321efa60390fd9ff400a41b00f504ca29d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0028_000-T.markers.yaml, hash: 'sha256:9a232722501ca4d05be9ad4ce45bc817794010513b16552dcab2967a6dca9e47'}
+  - {seq: 1, role: markers, filename: assets/KR6c0028_001-T.markers.yaml, hash: 'sha256:784acbf65b1db4a2312ae53d699fc8f70dfd970019052133ef2548a670c4e7bd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0028_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5126
+  label: 佛說能斷金剛般若波羅蜜多經
+  type: juan
+  level: 1
+hash: sha256:34a7f7f2fda50645aecf8aa78b060b06e73eea74a6a687d2c4fb7a8c7bbb5e9e
