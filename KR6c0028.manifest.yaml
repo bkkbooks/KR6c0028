@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6c0028_000.yaml, hash: 'sha256:051b8703a8df4dc2124b92e7a6d249f11a35acf9670f96e187f5ce17c613c67e'}
-  - {seq: 1, filename: KR6c0028_001.yaml, hash: 'sha256:d4a935d8502b5cbdf3ba9f7b8e98103c1d08e0b6e6ad9b852e8a3282e5ddafb9'}
+  - {seq: 1, filename: KR6c0028_001.yaml, hash: 'sha256:ba015a9911c539b61882c23925e45e321efa60390fd9ff400a41b00f504ca29d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0028_001.markers.yaml, hash: 'sha256:8b7fe33b7ad7b162799bb601ccf72773a8e5d5086a43a5ac890e0161f18aa778'}
+  - {seq: 0, role: markers, filename: assets/KR6c0028_000.markers.yaml, hash: 'sha256:6cf2a4acc293ff7112160147ca8a0de6431e820a07f0fb9e1d0680c9f073dff9'}
+  - {seq: 1, role: markers, filename: assets/KR6c0028_001.markers.yaml, hash: 'sha256:e4d07807f25f5882e873e340c7a49cc0bcdb5fdda7ee3500a9dfb08bd26e4513'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說能斷金剛般若波羅蜜多經
   type: juan
   level: 1
-hash: sha256:a7d970cf862795f9a3022c311fdd2824f9c6277199e192e31dc511435c067044
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cc3eb56959100542415c559e797789ea24032500dfc64cf5ed3df4e2ce743c73
