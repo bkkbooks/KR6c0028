@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6c0028/v1
 canonical_location: https://kanripo.org/bkk/KR6c0028/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說能斷金剛般若波羅蜜多經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6c0028_000.yaml, hash: 'sha256:051b8703a8df4dc2124b92e7a6d249f11a35acf9670f96e187f5ce17c613c67e'}
-  - {seq: 1, filename: KR6c0028_001.yaml, hash: 'sha256:ba015a9911c539b61882c23925e45e321efa60390fd9ff400a41b00f504ca29d'}
+  - {seq: 1, filename: KR6c0028_001.yaml, hash: 'sha256:17270e71d4951a1285c87196204e98dcdf15224c27e5bfe4ead39dd1d203ef1e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6c0028_000.markers.yaml, hash: 'sha256:6cf2a4acc293ff7112160147ca8a0de6431e820a07f0fb9e1d0680c9f073dff9'}
-  - {seq: 1, role: markers, filename: assets/KR6c0028_001.markers.yaml, hash: 'sha256:e4d07807f25f5882e873e340c7a49cc0bcdb5fdda7ee3500a9dfb08bd26e4513'}
+  - {seq: 1, role: markers, filename: assets/KR6c0028_001.markers.yaml, hash: 'sha256:c154ec4f4f54df49ac9f83a5728990111fb6bf5239d141104eb8a8f42ecafc38'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說能斷金剛般若波羅蜜多經
   type: juan
   level: 1
-hash: sha256:cc3eb56959100542415c559e797789ea24032500dfc64cf5ed3df4e2ce743c73
+hash: sha256:0c07a8ca4b35cf7133e0a4514a04d37f976eec9360b81d5e0ccc4254bec0b485
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
