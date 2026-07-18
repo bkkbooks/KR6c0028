@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6c0028_000-T.yaml, hash: 'sha256:051b8703a8df4dc2124b92e7a6d249f11a35acf9670f96e187f5ce17c613c67e'}
   - {seq: 1, filename: KR6c0028_001-T.yaml, hash: 'sha256:ba015a9911c539b61882c23925e45e321efa60390fd9ff400a41b00f504ca29d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0028_000-T.markers.yaml, hash: 'sha256:9a232722501ca4d05be9ad4ce45bc817794010513b16552dcab2967a6dca9e47'}
+  - {seq: 0, role: markers, filename: assets/KR6c0028_000-T.markers.yaml, hash: 'sha256:03bc7a76f39cb0e7f1221c01aa37386f6e770fd98e3af4afe302688d0da08ada'}
   - {seq: 1, role: markers, filename: assets/KR6c0028_001-T.markers.yaml, hash: 'sha256:784acbf65b1db4a2312ae53d699fc8f70dfd970019052133ef2548a670c4e7bd'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說能斷金剛般若波羅蜜多經
   type: juan
   level: 1
-hash: sha256:34a7f7f2fda50645aecf8aa78b060b06e73eea74a6a687d2c4fb7a8c7bbb5e9e
+hash: sha256:abb75819f8e4a4312931f4d6af89dbc36700d9b43b470669663ee8ae434b1e82
